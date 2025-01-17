@@ -1,5 +1,6 @@
 using boilerplate.Data;
 using boilerplate.Services;
+using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
